@@ -1,4 +1,4 @@
-# Blog Workers
+# workers-blog
 
 This is a Just PoC now.
 
